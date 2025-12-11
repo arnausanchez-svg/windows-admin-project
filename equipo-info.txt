@@ -1,0 +1,5 @@
+Nombre del equipo: PC-Aula12
+Dominio o gropo de trabajo: WORKGROUP
+Dirección IP: 192.168.1.42
+Versión del SO: Windows 10 Pro
+RAM Instalada: 8GB
