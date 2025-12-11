@@ -1,0 +1,1 @@
+Get-Volume | Select-Object DriveLetter, FileSystem, Write-Output "Revisión del disco completada correctamente."
